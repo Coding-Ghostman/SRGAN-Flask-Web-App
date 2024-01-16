@@ -34,3 +34,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+super.zip
+/models/discriminator_model_epoch_35.pth
+/models/discriminator.pth
+/models/generator.pth
+
+/api/__pycache__
